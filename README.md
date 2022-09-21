@@ -52,14 +52,14 @@ b)This serves as a marketing tool for businesses to drive foot traffic while pro
 
 Storing all the data on Blockchain is not viable solution. Filecoin is a open-source decentralized storage network . Filecoin is universally compatible with any data storage . It can retrieve data off of a centralized provider, a local computer or decentralized storage protocols.
 
-Verifiable storage 
+## Verifiable storage 
 
 Filecoin has built-in processes to check the history of files and verify that they have been stored correctly over time.
 
-Open market 
+## Open market 
 In Filecoin, file storage and retrieval deals are negotiated in open markets. Anybody can join the Filecoin network without needing permission
 
-Reliable storage
+## Reliable storage
 Because storage is paid for, Filecoin provides a viable economic reason for files to stay available over time. 
 
 <img src='./screenshot/cart.png' />
