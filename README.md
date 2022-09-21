@@ -1,3 +1,5 @@
+# 1, 2, Web3 Hackathon
+
 ## Problem
 
 
@@ -42,6 +44,27 @@ b)This serves as a marketing tool for businesses to drive foot traffic while pro
 
 
 
+
+<img src='./screenshot/index.png' />
+
+
+## Why FileCoin
+
+Storing all the data on Blockchain is not viable solution. Filecoin is a open-source decentralized storage network . Filecoin is universally compatible with any data storage . It can retrieve data off of a centralized provider, a local computer or decentralized storage protocols.
+
+Verifiable storage 
+
+Filecoin has built-in processes to check the history of files and verify that they have been stored correctly over time.
+
+Open market 
+In Filecoin, file storage and retrieval deals are negotiated in open markets. Anybody can join the Filecoin network without needing permission
+
+Reliable storage
+Because storage is paid for, Filecoin provides a viable economic reason for files to stay available over time. 
+
+<img src='./screenshot/cart.png' />
+
+
 <img src='./screenshot/celo1.jpg' />
 
 ## Why Celo
@@ -50,15 +73,6 @@ Celo is one of the most viable blockchain available in the market. First-generat
 
 On the other hand, Tezos is a third-generation blockchain that combines the former’s properties and has evolved to solve this issue.
 
-<img src='./screenshot/index.png' />
-
-
-## Why FileCoin
-
-Storing all the data on Blockchain is not viable solution. Filecoin is a open-source decentralized storage network . Filecoin is universally compatible with any data storage . It can retrieve data off of a centralized provider, a local computer or decentralized storage protocols
-
-<img src='./screenshot/cart.png' />
-
 
 ## How to Install 
 1) Download the apk file [MAPX](https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing) https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing and install in your android phone 
@@ -66,5 +80,3 @@ Storing all the data on Blockchain is not viable solution. Filecoin is a open-so
 2) Catch all the NFTs
 
 <img src='./screenshot/proto1.jpg' />
-
-## Special thanks to Web3athon and Celo Team for their support 
